@@ -21,8 +21,10 @@ And why is [reproducibility](https://ropensci.github.io/reproducibility-guide/se
 > Sometimes, an error in Excel is really clear, transparent and localized, but that's not the norm... **error handling** in Python is way more transparent by default, and can get even more clear with a bit of customization.
 
 In addition, Excel has statistical capabilities (specially with specific add-ins) and allow the creation of a good variety of graphs (again specially with complementary tools). However, the potencial goes far beyond in both fields with Python and its specific libraries. Yhat's a good time to remember:SS
-> All modern versions of Python are copyrighted under a GPL-compatible license certified by the [Open Source Initiative](https://opensource.com/resources/python). 
+> All modern versions of Python are copyrighted under a GPL-compatible license certified by the [Open Source Initiative](https://opensource.com/resources/python).
+
 > The programming language includes thousands of third-party modules available in the Python Package Index [PyPI](https://pypi.org/), which provides popular standards for different expertise.
+
 >  Python has an enormous user community, which can be translated as having high chances there are strong people already working on a solution to any issue you might have.
 
 Finally, Python scripts can be run in any platform. Who doesn't know someone that had **compatibility** issues while trying to work on Excel on different operating systems etc? (at least, that means time.. and maybe a light headache)
