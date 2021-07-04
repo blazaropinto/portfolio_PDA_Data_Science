@@ -1,0 +1,53 @@
+# 1 -stats on transport in general (just a graphic about historic/current situation of transport -car, trains, etc- ) in some wide area as introduction to the topic transport
+
+> e.g. in scotland https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/summary-transport-statistics/
+https://www.gov.uk/government/collections/walking-and-cycling-statistics - Gabriele
+
+https://www.cycling.scot/mediaLibrary/other/english/8988.pdf - Comparison of cycling rates in March 2020 with March 2021  - Can we measure impact of covid?
+
+https://usmart.io/org/cyclingscotland/. Open Data -cycling data in Scotland
+	
+# 2 -introduce impact on environment of each type of transport couple of graphics on that to highlight importance of changing habits on our use of transport + getting people to use bikes or walk when possible
+
+> e.g scotland https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/chapter-13-environment-and-emissions/
+	
+> e.g. nice grafic (accesible data ) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984685/transport-and-environment-statistics-2021.pdf
+
+> https://www.zerowastescotland.org.uk/press-release/scots-double-climate-change-fight-getting-their-second-hand-bikes  (Jojo)  Explore impact of secand hand bikes/ rentals on the environment
+
+
+	
+# 3 -What do people think? Changing habits, other more general questionnaires
+
+> e.g. https://dataverse.harvard.edu/file.xhtml;jsessionid=96f8a99f0acaaa02a2d74782c2ec?persistentId=doi:10.7910/DVN/P82V9X/WI19WJ&version=1.1
+
+https://www.cycling.scot/mediaLibrary/other/english/7268.pdf (Jojo)  Cycling Scotland Attitudes and Behaviours Towards Cycling in Scotland
+https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/39923db8-973e-4e9e-9557-601c14904a40 - This dataset shows the top five reasons for not cycling to work
+	
+# 4 -locally, what do people think?...ELREC…talk about it,,, correlate available info with willingness to change habits
+
+---
+---
+
+* Examples of stories on similar topics
+
+    * https://www.itpworld.net/resources
+    * have a quick look at this graphics (data available on links): https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/823068/national-travel-survey-2018.pdf
+
+* More data that can be useful:
+
+    * https://data.world/datasets/cycling
+
+
+    * https://data.world/datasets/bicycle
+
+# 5 Bike Sharing/Bike Libraries - 
+* Explore impact on environment
+*  Can we predict bike sharing demand in the future?
+*  Inclusion - Does everyone have equal access to bike scemes?
+Belfast -	https://data.gov.uk/dataset/fa9a9287-d40c-45dc-a4a4-e8728c3db6d2/belfast-bike-hire-rentals-and-returns (Zitha)
+West Lothian - https://www.wlbikelibrary.co.uk/access-our-services/ (Jojo)
+Scotland - https://como.org.uk/shared-mobility/shared-bikes/why/
+London - https://www.kaggle.com/hmavrodiev/london-bike-sharing-dataset/discussion/114708 (Bageshri)
+Scotland - https://www.britishcycling.org.uk/article/20180410-disability-static-content-Scottish-Cycling-Disability-Hubs--Glasgow-0?c=EN and for children in Falkirk http://www.fabb.org.uk/fabb-bikes.html 
+A story being made at the moment. Closure of Edinburgh bike service for disabled people due to lack of funding https://www.cyclinguk.org/edinburgh-all-ability-bike-centre
